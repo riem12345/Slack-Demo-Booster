@@ -6,7 +6,7 @@ Slackサンドボックス環境にAI生成の会話データを簡単に投入�
 
 ## ✨ ガイド
 
-Demo Booster - プロジェクト構成ガイド
+Demo Booster - 構成ガイド
 https://salesforce.quip.com/ZSx1ASa6lnDd
 
 Demo Booster - セットアップガイド
