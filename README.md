@@ -2,7 +2,7 @@
 
 Demo BoosterはSlackサンドボックス環境にAI生成の会話データを簡単に投入できるSlackアプリです。
 
-## ✨ 注意事項
+## ⚠️ 注意事項
 
 - Slackサンドボックス環境上にデモを構築するため、データ入出力操作が行われるアプリケーションになります。本番環境に誤って利用しないようご注意ください。
 - レポジトリが提供するのはサンプルコードになります。必要な設定、改修を行い自己責任でご利用ください。
@@ -10,11 +10,11 @@ Demo BoosterはSlackサンドボックス環境にAI生成の会話データを�
 
 ## ✨ ガイド
 
-Demo Booster - 構成ガイド
-https://salesforce.quip.com/ZSx1ASa6lnDd
+- Demo Booster - 構成ガイド
+　https://salesforce.quip.com/ZSx1ASa6lnDd
 
-Demo Booster - セットアップガイド
-https://salesforce.quip.com/abYwAT8bXLl5
+- Demo Booster - セットアップガイド
+　https://salesforce.quip.com/abYwAT8bXLl5
 
 
 ## ✨ 主な機能
