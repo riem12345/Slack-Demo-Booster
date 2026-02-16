@@ -164,4 +164,4 @@ npm start
 | アプリが起動しない | `.env` の値が正しいか確認。Socket Modeが有効か確認 |
 
 ## 📝 ライセンス
-riem12345
+MIT
