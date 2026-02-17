@@ -1,6 +1,7 @@
 # Demo Booster (Slack Sandbox Data Tool)
 
 Demo BoosterはSlackサンドボックス環境にAI生成の会話データを簡単に投入できるSlackアプリです。
+Slackのプランは問いません（Free〜Enterprise+まで対応）
 
 ## ⚠️ 注意事項
 
